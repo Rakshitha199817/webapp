@@ -17,6 +17,6 @@ phases:
      
 artifacts:
   files:
-    - target/*.war
+   # - target/*.war
       base-directory: target/
       discard-paths: yes
